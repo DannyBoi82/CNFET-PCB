@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=VHDCI.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=VHDCI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=COBConnector.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=COBConnector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
